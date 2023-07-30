@@ -53,6 +53,15 @@ body {
     text-align: center;
 }
 
+.resume {
+    color: white;
+    text-decoration: none;
+    padding: 25px 0;
+}
+
+.resume:hover {
+    text-decoration: underline;
+}
 
 /* CSS hack using multiple box-shadows to get them **Stars** */
 
